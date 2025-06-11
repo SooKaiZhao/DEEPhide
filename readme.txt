@@ -33,6 +33,8 @@ Installation
 
    python stego_tool.py
 
+   or double-click on DEEPhide.bat
+
 Usage
 -----
 1. **Encoding:**
